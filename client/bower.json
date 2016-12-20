@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/rahu5/node-chat",
+  "authors": [
+    "rahul yadav <rahu5992@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
